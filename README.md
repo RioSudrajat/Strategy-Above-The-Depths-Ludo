@@ -26,7 +26,7 @@ Proyek ini tidak memerlukan instalasi atau proses _build_. Cukup ikuti langkah-l
 1.  **Clone atau Unduh Repositori**
 
     ```bash
-    git clone [https://github.com/nama-user/nama-repo.git](https://github.com/nama-user/nama-repo.git)
+    git clone [https://github.com/RioSudrajat/Strategy-Above-The-Depths-Ludo.git](https://github.com/RioSudrajat/Strategy-Above-The-Depths-Ludo.git)
     ```
 
     Atau unduh file ZIP dan ekstrak.
